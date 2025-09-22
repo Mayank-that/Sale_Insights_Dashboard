@@ -1,9 +1,9 @@
-📊 Business Case Studies – Sales Insights
+# 📊 Business Case Studies – Sales Insights
 
 This repository contains multiple business case studies derived from real-world style datasets (Customers, Employees, Invoices, Products, and Transactions).
 Each case study highlights a core business question and provides a structured approach to analysis.
 
-⭐ 1. Customer Loyalty & Retention
+#⭐ 1. Customer Loyalty & Retention
 
 Case Study: How customer loyalty programs impact long-term sales.
 
@@ -17,7 +17,7 @@ Approach:
 
 ✅ Conclude whether to invest more in loyalty programs or focus on new customer acquisition.
 
-👨‍💼 2. Employee Productivity & Sales Contribution
+#👨‍💼 2. Employee Productivity & Sales Contribution
 
 Case Study: Which employees generate the highest revenue for the company?
 
@@ -31,7 +31,7 @@ Approach:
 
 🎯 Identify high performers, underperformers, and potential training or restructuring needs.
 
-📑 3. Invoice & Payment Behavior
+#📑 3. Invoice & Payment Behavior
 
 Case Study: Cash flow risks due to late payments.
 
@@ -47,7 +47,7 @@ Approach:
 
 💡 Propose a risk mitigation plan (early payment discounts, stricter credit terms).
 
-📦 4. Product Performance & Market Fit
+#📦 4. Product Performance & Market Fit
 
 Case Study: Which products drive the most revenue, and where?
 
@@ -63,7 +63,7 @@ Approach:
 
 🎯 Suggest targeted marketing and product positioning strategies.
 
-💸 5. Discounts & Profitability
+#💸 5. Discounts & Profitability
 
 Case Study: Are discounts actually boosting sales?
 
@@ -77,7 +77,7 @@ Approach:
 
 ✅ Recommend an optimal discount strategy to balance sales volume and profitability.
 
-🔄 6. Churn & Transaction Status Analysis
+#🔄 6. Churn & Transaction Status Analysis
 
 Case Study: Understanding customer churn through failed transactions.
 
@@ -91,7 +91,7 @@ Approach:
 
 💡 Suggest improvements in payment gateways, product quality, or customer support.
 
-🌎 7. Regional & Country-Level Sales Trends
+#🌎 7. Regional & Country-Level Sales Trends
 
 Case Study: Which regions drive growth, and which are lagging?
 

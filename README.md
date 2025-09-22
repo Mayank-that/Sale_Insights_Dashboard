@@ -8,6 +8,18 @@ The dashboard helps in quickly spotting which products are performing well, whic
 
 The dataset simulates a real-world retail sales environment, covering customers, employees, products, invoices, and transactions. It’s structured in multiple tables that connect to give a full picture of sales activity.
 
+## 🎯 Key Objectives
+
+Track overall sales and revenue performance
+
+Understand customer behavior and top segments
+
+Identify best-selling products and categories
+
+Analyze transactions, payments, and trends over time
+
+Provide insights to support better business decisions
+
 ## 👥 Customers Table
 
 🆔 Customer_ID – unique customer identifier
@@ -67,6 +79,22 @@ The dataset simulates a real-world retail sales environment, covering customers,
 📑 Excel – for data cleaning, preprocessing, and quick exploratory analysis.
 
 🗄️ SQL – for querying, joining, and analyzing relational data.
+
+## 📂 Files in the Repository
+
+Excel Files – contains all the CSV files (Customer, Employees, Products, Invoices, Transactions).
+
+Queries – SQL scripts used for data cleaning, joining, and analysis.
+
+Dashboard – Power BI / Excel dashboard file showing sales insights.
+
+README.md – project overview, objectives, dataset info, and instructions.
+
+images – screenshots of the dashboard for quick preview.
+
+## ✅ Conclusion
+
+The Sales Insights Dashboard turned raw sales data into clear and useful information. By analyzing revenue, customers, products, and transactions, the project shows how data can highlight key trends and help in better decision-making. This kind of analysis can be valuable for any business that wants to understand its performance and plan for growth.
 
 🌐 GitHub – for version control and showcasing the project.
 

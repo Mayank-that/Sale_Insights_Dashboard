@@ -20,6 +20,35 @@ Analyze transactions, payments, and trends over time
 
 Provide insights to support better business decisions
 
+# Key Insights
+
+This repository contains a set of **20 SQL practice questions** based on `Transactions`, `Customer`, `Product`, and `Invoice` tables.
+---
+
+## Questions
+
+1. Select the first 10 rows of the `Transactions` Table.  
+2. Select the last 10 rows of the `Transactions` Table.  
+3. List all unique `Payment_Method` values and their counts.  
+4. List count of unique `Payment_Method` values.  
+5. Find the total number of transactions in the dataset.  
+6. Show all transactions where `Transaction_Status = 'Refunded'` and `Total_Sales > 500`.  
+7. Return `Customer_ID`, `Total_Sales` for transactions sorted by highest `Total_Sales` — top 20.  
+8. Select customers with `Loyalty_Points > 3000` and show `Customer_ID`, `Customer_Name`, `Loyalty_Points`.  
+9. Count number of customers per `Customer_Segment`.  
+10. Get average `Total_Sales` for all transaction statuses.  
+11. Find the maximum `Quantity` sold in a single transaction and show that transaction row.  
+12. Return the number of distinct `Customer_ID`s who made purchases (i.e., active customers).  
+13. Join `Transactions` Table with `Customers` Table to show `Customer_Name`, `Transaction_Date`, `Total_Sales`.  
+14. For each `Customer_Segment`, compute total revenue and average order value.  
+15. Find top 10 products by total revenue (using `Product` Table + `Transactions` Table). Show `Product_Name`, `Product_ID`, and revenue.  
+16. Identify customers who have more than 5 transactions. Show `Customer_ID` and `txn_count`.  
+17. For each `Payment_Method`, compute success rate: (#Success / total). Show `Payment_Method`, `success_rate`.  
+18. List invoices that are overdue assuming `Payment_Due = 'NO'` means unpaid. Show `Invoice_ID`, `Customer_ID`, `Invoice_Date`.  
+19. Create a column `is_high_value` in a query: `1 if Total_Sales >= 1000 else 0`. Show counts per `is_high_value`.  
+20. Find products where average discount per transaction > 20. Show `Product_ID`, `Product_Name`, `avg_discount`.  
+
+---
 ## 👥 Customers Table
 
 🆔 Customer_ID – unique customer identifier

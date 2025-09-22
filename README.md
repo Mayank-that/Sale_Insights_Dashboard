@@ -81,10 +81,10 @@ Provide insights to support better business decisions
 🗄️ SQL – for querying, joining, and analyzing relational data.
 
 ## 📝 How to View
-Open `Excel Files` in Excel to view the Dataset
-Open `Sql Files` in postrege sql to view proper queries
-Open `Power BI Files` in Power BI to view Dashboard
-Refer to the `Screenshots/` folder for quick previews of the dashboards. 
+1. Open `Excel Files` in Excel to view the Dataset.
+2. Open `Sql Files` in postrege sql to view proper queries.
+3. Open `Power BI Files` in Power BI to view Dashboard.
+4. Refer to the `Screenshots/` folder for quick previews of the dashboards. 
 
 ## 📂 Files in the Repository
 

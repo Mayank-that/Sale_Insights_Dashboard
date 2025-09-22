@@ -1,5 +1,5 @@
 # Sale_Insights_Dashboard
-Developed a project by using Excel, SQL and Power BI and find meaningful insights 
+Developed a project by using Excel, SQL and Power BI
 
 ## 📊 Overview
 This project is about analyzing sales data and turning it into an easy-to-understand dashboard. The idea was to take raw data from customers, products, transactions, invoices, and employees, and then clean and organize it using SQL. After that, I created visuals that show important things like total revenue, top customers, best-selling products, and sales trends over time.

@@ -22,11 +22,6 @@ Provide insights to support better business decisions
 
 # Key Insights
 
-This repository contains a set of **20 SQL practice questions** based on `Transactions`, `Customer`, `Product`, and `Invoice` tables.
----
-
-## Questions
-
 1. Select the first 10 rows of the `Transactions` Table.  
 2. Select the last 10 rows of the `Transactions` Table.  
 3. List all unique `Payment_Method` values and their counts.  

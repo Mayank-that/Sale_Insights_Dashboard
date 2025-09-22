@@ -94,8 +94,6 @@ from transactions
 group by customer_id;
 
 --20--10. Find products where average discount per transaction > 20. Show `Product_ID`, `avg_discount`.
-    
-   -- Hint: `AVG(Discount)` grouped by `Product_ID`, filter with `HAVING`.
 
 SELECT t.product_id,p.product_name,round(avg(discount),2)
 from transactions t
@@ -103,6 +101,7 @@ inner join product p
 on t.product_id = p.product_id
 group by t.product_id,p.product_name
 having avg(discount)>=20
+
 
 
 

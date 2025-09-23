@@ -122,7 +122,13 @@ README.md – project overview, objectives, dataset info, and instructions.
 
 images – screenshots of the dashboard for quick preview.
 
+## 📸 Dashboard Preview
+Here are some snapshots of the Pizza Sales Dashboard:
+![image alt](https://github.com/Mayank-that/Sale_Insights_Dashboard/blob/main/Screenshot%20(383).png)
+
 ## ✅ Conclusion
 
 The Sales Insights Dashboard turned raw sales data into clear and useful information. By analyzing revenue, customers, products, and transactions, the project shows how data can highlight key trends and help in better decision-making. This kind of analysis can be valuable for any business that wants to understand its performance and plan for growth.
+
+
 
